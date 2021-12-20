@@ -1,10 +1,21 @@
-# doublecross_mad
-A variant of thee Half-Life Multiplayer death match map doublecross.
+# crossfire_mad
+A variant of the Half-Life Multiplayer Death Match Map crossfire.
 
-## Changes to doublecross createed doublecross_mad
+
+## Change crossfire: Creating crossfire_mad.
 For many Half-Life Deathmatch players the gluon gun was considered a weapon that made the matches no fun.
 That was reason for MadDEMENTOR, author of this modified map in which there is no weapon_egon.
 
 Enjoy and share this greeat addition to the HLDM maps.
 
-To use the map in the game find the /maps folder in the Half-Life game folder and add the file doublecross_mad.bsp.
+## Installing and Updating
+
+Download the latest release of the file crossfire_mad.bsp;
+
+In the Library of your steam client find the Half-Life entry and right click to open the Submenu and choose Manage...
+Browse local files
+
+/Half-Life
+cd into the directory valve/maps/ remove file doublecross_mad.bsp if it already exists. Add crossfire_mad.bsp 
+
+
